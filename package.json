@@ -1,0 +1,23 @@
+{
+  "name": "js_project",
+  "version": "1.0.0",
+  "description": "PIS_project",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"Road to hell\")"
+  },
+
+  "keywords": [
+    "polytech"
+  ],
+  "author": "Pavel Prokofiev",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dateformat": "^4.0.0",
+    "express": "^4.17.1",
+    "express-generator": "^4.16.1",
+    "nodemon": "^2.0.6",
+    "save": "^2.4.0"
+  }
+}
